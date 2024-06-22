@@ -58,7 +58,7 @@ The script outputs the accuracy of the model on the training and testing sets an
 
 ## Results
 
-- The model achieves a certain accuracy on the training and testing datasets.
+- The model achieves a 77.08% of accuracy on the training datasets and 81.25% accuracy on testing datasets.
 - Predictions can be made on new data inputs regarding loan approval.
 
 ---
